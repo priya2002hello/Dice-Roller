@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    //configuring roll button.
     <Button
         android:id="@+id/button3"
         android:layout_width="wrap_content"
@@ -34,6 +35,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" >
 
+        //image of dice 1.
         <ImageView
             android:id="@+id/diceimg"
             android:layout_width="wrap_content"
@@ -41,6 +43,7 @@
             android:layout_weight="1"
             tools:srcCompat="@drawable/dice_1" />
 
+        //image of dice 2.
         <ImageView
             android:id="@+id/diceimg2"
             android:layout_width="wrap_content"

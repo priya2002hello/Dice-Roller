@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">dice roller</string>
+    <string name="roll">ROLL</string>
+    <string name="lucky">You won!!!</string>
+    <string name="notlucky">Try again You did not get lucky number</string>
+</resources>
